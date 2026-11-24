@@ -1,0 +1,13 @@
+# PUBLIC repo: chi code. Token YouTube, so lieu kenh, bao cao, chien luoc kenh KHONG len day.
+*.json
+*.txt
+*.bak*
+__pycache__/
+.repo-gui/
+ytdata/tokens/
+ytdata/data/
+bao-cao/
+quyet-dinh/
+# danh sach kenh + cong cu (ID brand, ten tai khoan, muc tieu kenh) = thong tin rieng
+kenh*.md
+cong-cu.md
